@@ -89,6 +89,7 @@ p {
 	letter-spacing: .02em;
 	line-height:.2;
 	word-spacing: .1em;
+	display: block;
 }
 
 .aboutdescription {
